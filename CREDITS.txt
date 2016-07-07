@@ -1,0 +1,7 @@
+Vertex Shader for the tank models: http://answers.unity3d.com/answers/928498/view.html
+Bubbling sound (CC license): https://www.freesound.org/people/MattJ99/sounds/66787/
+Unity3D Asset Grey Stone Tiles: https://www.assetstore.unity3d.com/en/#!/content/23708
+JsonHelper class in C#: http://forum.unity3d.com/threads/how-to-load-an-array-with-jsonutility.375735/#post-2585129
+Integer range to RGB value conversion: http://stackoverflow.com/a/20792531
+Cardboard Icon: https://www.google.com/design/spec-vr/interactive-patterns/setup.html
+Industry Icon: https://openclipart.org/detail/237859/factory
